@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root 'state_pages#home'
+  root 'static_pages#home'
   get 'static_pages/home'
 
   get 'static_pages/help'
