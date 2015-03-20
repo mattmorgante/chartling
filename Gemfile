@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.0'
 gem 'minitest-reporters'
 gem 'awesome_print'
+gem 'bootstrap-sass'
 # Use postgresql as the database for Active Record
 gem 'pg'
 # Use SCSS for stylesheets
